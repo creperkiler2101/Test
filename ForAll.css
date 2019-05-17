@@ -11,3 +11,14 @@ body{
 	color: black
 }
 /* TODO Добавить стили для подвала */
+footer{
+	background-color: #eac2e0;
+	margin-left: 80%;
+	margin-top: 5%;
+	text-align: right;
+	background-image:url('Portret.png');
+	background-repeat: no-repeat;
+	border: dotted 5px #d224a6;
+	height: 150px;
+	text-transform: uppercase;
+}

@@ -1,3 +1,9 @@
 /* TODO Добавить стили для заголовка */
+h1{
+	text-align: center;/*заголовок по центру*/
+	padding:0.5cm;
+	letter-spacing:0.3cm;
+	font:bold 25px Georgia;
+}
 /* TODO Добавить стили для контента */
 /* TODO Добавить стили для подвала */

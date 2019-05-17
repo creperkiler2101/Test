@@ -6,4 +6,8 @@ h1{
 	font:bold 25px Georgia;
 }
 /* TODO Добавить стили для контента */
+body{
+	background-color: #eedae9;
+	color: black
+}
 /* TODO Добавить стили для подвала */

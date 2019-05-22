@@ -17,7 +17,7 @@ function Hind() {
 	
 	hindDiv.innerHTML = "Sa valisid " + kogus + " taia ja " + choosedJoogid + 
 	
-	"<br><br>Palun maksa " + ((kogus * 1.2) + joogidHind).toFixed(2) + " euro";
+	"<br><br>Palun maksa " + ((kogus * 1.2) + jogidHind).toFixed(2) + " euro";
 }
 
 function ChangeJoogid() {

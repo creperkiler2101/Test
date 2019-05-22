@@ -1,3 +1,24 @@
 /* TODO Добавить стили для заголовка */
+h1{
+	text-align: center;/*заголовок по центру*/
+	padding:0.5cm;
+	letter-spacing:0.3cm;
+	font:bold 25px Georgia;
+}
 /* TODO Добавить стили для контента */
+body{
+	background-color: #eedae9;
+	color: black
+}
 /* TODO Добавить стили для подвала */
+footer{
+	background-color: #eac2e0;
+	margin-left: 80%;
+	margin-top: 5%;
+	text-align: right;
+	background-image:url('Portret.png');
+	background-repeat: no-repeat;
+	border: dotted 5px #d224a6;
+	height: 150px;
+	text-transform: uppercase;
+} 
